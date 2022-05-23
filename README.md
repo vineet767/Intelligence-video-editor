@@ -15,4 +15,6 @@ VideoEditor - This is a professional video edit app, it's an easy & practical vi
 
 . Slow and fast motion
 
-. Text and image
+. Text
+
+.emoji
